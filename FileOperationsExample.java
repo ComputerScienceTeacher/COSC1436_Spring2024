@@ -26,7 +26,7 @@ public class FileOperationsExample {
                 System.out.println(line);
                 
                 // Writing Data to a File
-                bufferedWriter.write(line);
+                bufferedWriter.write("I am the man");
                 bufferedWriter.newLine(); // Writing new line character
             }
             

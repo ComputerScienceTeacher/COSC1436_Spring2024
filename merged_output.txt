@@ -1,0 +1,6 @@
+This is input file 1.
+It contains some sample text.
+Each line represents a record.
+This is input file 2.
+It also contains some sample text.
+Each line represents a record.
